@@ -1,0 +1,22 @@
+h1, body, h2 {
+    color: red;
+}
+
+body {
+    background-color: blue;
+}
+
+.firstDiv {
+    background-color: purple;
+    text-align: center;
+    border-radius: 50px;
+    height: 600px;
+}
+
+ul {
+    list-style: none;
+}
+
+h2 {
+    font-size: 50px;
+}
